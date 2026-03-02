@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "售前教练prompt.md",
+                "file": "面试/boss直聘使用技巧.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "售前教练prompt"
+              "title": "boss直聘使用技巧"
             }
           }
         ],
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "售前教练prompt.md",
+                "file": "面试/boss直聘使用技巧.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "售前教练prompt 的反向链接列表"
+              "title": "boss直聘使用技巧 的反向链接列表"
             }
           },
           {
@@ -148,12 +148,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "售前教练prompt.md",
+                "file": "面试/boss直聘使用技巧.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "售前教练prompt 的出链列表"
+              "title": "boss直聘使用技巧 的出链列表"
             }
           },
           {
@@ -191,13 +191,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "售前教练prompt.md",
+                "file": "面试/boss直聘使用技巧.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "售前教练prompt 的大纲"
+              "title": "boss直聘使用技巧 的大纲"
             }
           }
         ]
@@ -220,9 +220,10 @@
   },
   "active": "259d28a221520564",
   "lastOpenFiles": [
+    "面试/心理篇.md",
+    "Pasted image 20260302133423.png",
     "面试/boss直聘使用技巧.md",
     "售前教练prompt.md",
-    "面试/心理篇.md",
     "IMG_1438.png",
     "IMG_1439.png",
     "README.md"
