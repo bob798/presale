@@ -34,29 +34,51 @@
               "icon": "lucide-file",
               "title": "boss直聘使用技巧"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "89791d803ccba296",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "967b2a072b382ae1",
+            "id": "a3e00a6cbb8beaae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面试/boss直聘使用技巧.md",
-                "mode": "preview",
+                "file": "面试/面试要求现场讲解方案，该如何准备.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "boss直聘使用技巧"
+              "title": "面试要求现场讲解方案，该如何准备"
+            }
+          },
+          {
+            "id": "f1229a503425c51b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "面试/面试问题集锦.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "面试问题集锦"
+            }
+          },
+          {
+            "id": "d4ea2642d2abd856",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "面试/面试要求现场讲解方案，该如何准备.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "面试要求现场讲解方案，该如何准备"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -129,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试/boss直聘使用技巧.md",
+                "file": "需求分析.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "boss直聘使用技巧 的反向链接列表"
+              "title": "需求分析 的反向链接列表"
             }
           },
           {
@@ -148,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试/boss直聘使用技巧.md",
+                "file": "需求分析.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "boss直聘使用技巧 的出链列表"
+              "title": "需求分析 的出链列表"
             }
           },
           {
@@ -191,13 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面试/boss直聘使用技巧.md",
+                "file": "需求分析.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "boss直聘使用技巧 的大纲"
+              "title": "需求分析 的大纲"
             }
           }
         ]
@@ -218,14 +240,17 @@
       "bases:新建数据库": false
     }
   },
-  "active": "259d28a221520564",
+  "active": "d4ea2642d2abd856",
   "lastOpenFiles": [
-    "面试/心理篇.md",
-    "Pasted image 20260302133423.png",
-    "面试/boss直聘使用技巧.md",
+    "面试/面试问题集锦.md",
+    "README.md",
     "售前教练prompt.md",
+    "需求分析.md",
+    "Pasted image 20260302133423.png",
+    "面试/面试要求现场讲解方案，该如何准备.md",
+    "面试/boss直聘使用技巧.md",
+    "面试/心理篇.md",
     "IMG_1438.png",
-    "IMG_1439.png",
-    "README.md"
+    "IMG_1439.png"
   ]
 }
